@@ -34,7 +34,8 @@ For more details on usage and implementation, refer to the [IndicTrans2 README](
 ---
 
 ## Conclusion
-> The INDIC-TRANS model effectively captures the clarity and emotional undertones of the original dialogue, retaining humour and contextual understanding. However, there are areas for improvement, particularly in enhancing idiomatic expressions and cultural relevance for Tamil speakers. Overall, the translation demonstrates strong fidelity to meaning, grammatical correctness, and natural fluency, making it relatable for the target audience.
+
+  > The INDIC-TRANS model effectively captures the clarity and emotional undertones of the original dialogue, retaining humour and contextual understanding. However, there are areas for improvement, particularly in enhancing idiomatic expressions and cultural relevance for Tamil speakers. Overall, the translation demonstrates strong fidelity to meaning, grammatical correctness, and natural fluency, making it relatable for the target audience.
 
 ---
 ## Links and References
