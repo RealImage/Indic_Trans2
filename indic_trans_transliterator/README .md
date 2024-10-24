@@ -2,7 +2,7 @@
 
 Indic-trans provides a state-of-the-art transliteration module for cross-transliterations (representing multilingual languages in English) among Indian languages, including English and Urdu.
 
-(This deployment is a work in progress and only focuses on text input for the time being)
+***This deployment is a work in progress and only focuses on text input for the time being***
 
 ## Supported Languages
 
