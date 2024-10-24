@@ -33,3 +33,8 @@ For more details on usage and implementation, refer to the [IndicTrans2 README](
 
 ---
 
+## Links and References
+- [IndicTrans GitHub Repository](https://github.com/AI4Bharat/indicTrans)
+- [IndicTrans2 GitHub Repository](https://github.com/AI4Bharat/IndicTrans2)
+- [AI4Bharat Developer Website](https://ai4bharat.iitm.ac.in/)
+
