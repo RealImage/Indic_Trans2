@@ -36,6 +36,37 @@ For more details on usage and implementation, refer to the [IndicTrans2 README](
 ## Conclusion
 
   > The INDIC-TRANS model effectively captures the clarity and emotional undertones of the original dialogue, retaining humour and contextual understanding. However, there are areas for improvement, particularly in enhancing idiomatic expressions and cultural relevance for Tamil speakers. Overall, the translation demonstrates strong fidelity to meaning, grammatical correctness, and natural fluency, making it relatable for the target audience.
+> ### IndicTrans2 - Performance Analysis [October 2024]
+
+| **Criterion**             | **Description**                                                                                                                  |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Fidelity to Meaning**   | **Original Dialogue**: Explores favourite colours, masculinity, and personal experiences.<br>**Translation Accuracy**: Captures key phrases like “yellow is my favourite colour” and “I love violence” without loss of meaning. |
+| **Contextual Relevance**  | **Cultural Insights**: Addresses societal expectations of masculinity and femininity.<br>**Nuanced Translation**: Effectively conveys playful commentary and humour sensitive to Tamil cultural contexts. |
+| **Grammatical Correctness** | **English Standards**: Adheres to proper grammatical conventions.<br>**Tamil Proficiency**: Maintains grammatical integrity with correct sentence structure and punctuation. |
+| **Naturalness and Fluency** | **Authenticity**: Utilizes colloquial expressions to enhance relatability for Tamil audiences.<br>**Smooth Flow**: Ensures seamless conversational tone in both languages. |
+
+---
+
+> ### Positive Performance
+
+| Aspect               | Description                                                                                                                                           |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Clarity of Meaning** | Effectively captures the primary ideas and emotional undertones of the original dialogue.                                                              |
+| **Humour Retention**   | Maintains an engaging tone throughout, preserving the humour well.                                                                                     |
+| **Contextual Understanding** | The narrative flows smoothly, enabling the audience to follow along without confusion.                                                        |
+
+---
+
+> ### Areas for Improvement
+
+| Area                  | Description                                                                                                                   |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Idiomatic Expressions** | Some Tamil phrases could be more idiomatic, resulting in occasional awkward phrasing.                                         |
+| **Nuance Loss**        | Certain expressions lack subtle cultural and emotional depth in translation.                                                   |
+| **Cultural Relevance** | Some references may not resonate effectively with Tamil speakers without additional context.                                    |
+
+---
+
 
 ---
 ## Links and References
